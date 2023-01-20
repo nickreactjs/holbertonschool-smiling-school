@@ -1,1 +1,1 @@
-# holbertonschool-smiling-school
+# smiling-school
