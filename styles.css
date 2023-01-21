@@ -1,0 +1,30 @@
+:root {
+  --color-lila: #C271FF;
+}
+
+body {
+  background-color: #071629;
+}
+
+.homepage-header {
+  background-image: url(./images/pic_1.jpg);
+}
+
+header {
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+.btn-purple {
+  background-color: #C271FF;
+  color: white;
+}
+
+.text-purple {
+  color:#C271FF;
+}
+
+.bg-purple {
+  background-color: #C271FF;
+}
